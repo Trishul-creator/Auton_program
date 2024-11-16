@@ -14,4 +14,4 @@ from vex import *
 brain=Brain()
 
 brain.screen.print("Hello IQ2")
-print("Hello new vex project !!")
+print("Hello new vex project !!!")
