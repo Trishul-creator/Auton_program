@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.6.0",
+		"json": 2
+	},
+	"project": {
+		"name": "Auton_program",
+		"description": "Autonomous program for vex iq competiton",
+		"creationDate": "11/16/2024, 1:09:24 PM",
+		"platform": "IQ2",
+		"language": "python",
+		"slot": 1,
+		"sdkVersion": "IQ2_1_0_0_19",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
